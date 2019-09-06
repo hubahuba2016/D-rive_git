@@ -1,0 +1,200 @@
+fileFormatVersion: 2
+guid: 6f85e9e7f97a1474489b9c65c5bbdcc5
+timeCreated: 1515895005
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Air Intake
+    100002: Air Outake
+    100004: Back Window
+    100006: Brake Light
+    100008: Car Body
+    100010: //RootNode
+    100012: Headlight
+    100014: Rim Back Left
+    100016: Rim Back Right
+    100018: Rim Front Left
+    100020: Rim Front Right
+    100022: Turn Signals
+    100024: Tyre Back Left
+    100026: Tyre Back Right
+    100028: Tyre Front Left
+    100030: Tyre Front Right
+    100032: Wheel Back Left
+    100034: Wheel Back Right
+    100036: Wheel Front Left
+    100038: Wheel Front Right
+    100040: Windows
+    100042: Front Bumper
+    100044: Rear Bumper
+    100046: main2
+    400000: Air Intake
+    400002: Air Outake
+    400004: Back Window
+    400006: Brake Light
+    400008: Car Body
+    400010: //RootNode
+    400012: Headlight
+    400014: Rim Back Left
+    400016: Rim Back Right
+    400018: Rim Front Left
+    400020: Rim Front Right
+    400022: Turn Signals
+    400024: Tyre Back Left
+    400026: Tyre Back Right
+    400028: Tyre Front Left
+    400030: Tyre Front Right
+    400032: Wheel Back Left
+    400034: Wheel Back Right
+    400036: Wheel Front Left
+    400038: Wheel Front Right
+    400040: Windows
+    400042: Front Bumper
+    400044: Rear Bumper
+    400046: main2
+    2300000: Air Intake
+    2300002: Air Outake
+    2300004: Back Window
+    2300006: Brake Light
+    2300008: Car Body
+    2300010: Headlight
+    2300012: Rim Back Left
+    2300014: Rim Back Right
+    2300016: Rim Front Left
+    2300018: Rim Front Right
+    2300020: Turn Signals
+    2300022: Tyre Back Left
+    2300024: Tyre Back Right
+    2300026: Tyre Front Left
+    2300028: Tyre Front Right
+    2300030: Windows
+    2300032: Front Bumper
+    2300034: Rear Bumper
+    2300036: main2
+    3300000: Air Intake
+    3300002: Air Outake
+    3300004: Back Window
+    3300006: Brake Light
+    3300008: Car Body
+    3300010: Headlight
+    3300012: Rim Back Left
+    3300014: Rim Back Right
+    3300016: Rim Front Left
+    3300018: Rim Front Right
+    3300020: Turn Signals
+    3300022: Tyre Back Left
+    3300024: Tyre Back Right
+    3300026: Tyre Front Left
+    3300028: Tyre Front Right
+    3300030: Windows
+    3300032: Front Bumper
+    3300034: Rear Bumper
+    3300036: main2
+    4300000: Tyre Back Left
+    4300002: Rim Back Left
+    4300004: Rim Front Left
+    4300006: Tyre Front Left
+    4300008: Rim Back Right
+    4300010: Tyre Back Right
+    4300012: Tyre Front Right
+    4300014: Rim Front Right
+    4300016: Car Body
+    4300018: Air Outake
+    4300020: Air Intake
+    4300022: Back Window
+    4300024: Windows
+    4300026: Brake Light
+    4300028: Turn Signals
+    4300030: Headlight
+    4300032: Rear Bumper
+    4300034: Front Bumper
+    4300036: main2
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 1205d3cb1f51d85468987cbe44ec8b42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: c211eebe933fbb64b80be0be542c3333, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

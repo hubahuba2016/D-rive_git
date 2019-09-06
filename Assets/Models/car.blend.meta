@@ -1,0 +1,196 @@
+fileFormatVersion: 2
+guid: f4f9385c168d0ed418f6b7e78d221c3c
+timeCreated: 1507617787
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Car_Main
+    100004: tyre_back_left
+    100006: tyre_back_left_001
+    100008: tyre_back_left_002
+    100010: tyre_front_left
+    100012: tyre_front_left_001
+    100014: tyre_back_right
+    100016: tyre_front_right
+    100018: rim_back_left
+    100020: rim_back_right
+    100022: rim_front_left
+    100024: rim_front_right
+    100026: wheel_back_left
+    100028: wheel_back_right
+    100030: wheel_front_left
+    100032: wheel_front_right
+    100034: brake_light
+    100036: car_air_intake
+    100038: car_body
+    100040: car_window
+    100042: front_bumper
+    100044: headlight
+    100046: main
+    100048: rear_bumper
+    100050: signal_lights
+    400000: //RootNode
+    400002: Car_Main
+    400004: tyre_back_left
+    400006: tyre_back_left_001
+    400008: tyre_back_left_002
+    400010: tyre_front_left
+    400012: tyre_front_left_001
+    400014: tyre_back_right
+    400016: tyre_front_right
+    400018: rim_back_left
+    400020: rim_back_right
+    400022: rim_front_left
+    400024: rim_front_right
+    400026: wheel_back_left
+    400028: wheel_back_right
+    400030: wheel_front_left
+    400032: wheel_front_right
+    400034: brake_light
+    400036: car_air_intake
+    400038: car_body
+    400040: car_window
+    400042: front_bumper
+    400044: headlight
+    400046: main
+    400048: rear_bumper
+    400050: signal_lights
+    2300000: Car_Main
+    2300002: tyre_back_left
+    2300004: tyre_back_left_001
+    2300006: tyre_back_left_002
+    2300008: tyre_front_left
+    2300010: tyre_front_left_001
+    2300012: tyre_back_right
+    2300014: tyre_front_right
+    2300016: rim_back_left
+    2300018: rim_back_right
+    2300020: rim_front_left
+    2300022: rim_front_right
+    2300024: brake_light
+    2300026: car_air_intake
+    2300028: car_window
+    2300030: front_bumper
+    2300032: headlight
+    2300034: main
+    2300036: rear_bumper
+    2300038: signal_lights
+    3300000: Car_Main
+    3300002: tyre_back_left
+    3300004: tyre_back_left_001
+    3300006: tyre_back_left_002
+    3300008: tyre_front_left
+    3300010: tyre_front_left_001
+    3300012: tyre_back_right
+    3300014: tyre_front_right
+    3300016: rim_back_left
+    3300018: rim_back_right
+    3300020: rim_front_left
+    3300022: rim_front_right
+    3300024: brake_light
+    3300026: car_air_intake
+    3300028: car_window
+    3300030: front_bumper
+    3300032: headlight
+    3300034: main
+    3300036: rear_bumper
+    3300038: signal_lights
+    4300000: tyre_back_left_002
+    4300002: tyre_front_left_001
+    4300004: tyre_back_left_001
+    4300006: tyre_back_left
+    4300008: tyre_front_left
+    4300010: Car_Main
+    4300012: tyre_back_right
+    4300014: tyre_front_right
+    4300016: rim_front_left
+    4300018: rim_back_left
+    4300020: rim_back_right
+    4300022: rim_front_right
+    4300024: headlight
+    4300026: brake_light
+    4300028: signal_lights
+    4300030: car_air_intake
+    4300032: car_window
+    4300034: rear_bumper
+    4300036: front_bumper
+    4300038: main
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

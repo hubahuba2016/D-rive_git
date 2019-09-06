@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: af7d91d9f248e6e40b52201aafc915c0
+timeCreated: 1502961555
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: High Tide - Demo
+  fontNames:
+  - High Tide - Demo
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
